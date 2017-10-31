@@ -1,0 +1,72 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name = "activity_horizontal_margin">16dp</dimen>
+    <dimen name = "activity_vertical_margin">16dp</dimen>
+
+
+    <!-- Small Dimensions = "Medium Dimensions * 0.75" For Example: 210*.75 = 157.5-->
+    <dimen name = "dimen_task_small">80dip</dimen>
+    <dimen name = "radiobutton_width_small">110dip</dimen>
+    <dimen name = "padding_10dp_small">7.5dip</dimen>
+    <dimen name = "paddingtop_20dp_small">15dip</dimen>
+    <dimen name = "paddingtop_30dp_small">22.5dip</dimen>
+    <dimen name = "savebutton_width_small">112.5dip</dimen>
+    <dimen name = "savebutton_height_small">37.5dip</dimen>
+    <dimen name = "Itemtime_width_small">60dip</dimen>
+    <dimen name = "ItemNote_width_small">80dip</dimen>
+    <dimen name = "ItemAt_width_small">50dip</dimen>
+    <dimen name = "ItemPlace_width_small">80dip</dimen>
+    <dimen name = "thankyouNoteSize_small">15sp</dimen>
+
+
+
+    <!-- Medium Dimensions -->
+    <dimen name = "dimen_task_normal">106dip</dimen>
+    <dimen name = "radiobutton_width_normal">110dip</dimen>
+    <dimen name = "padding_10dp_normal">10dip</dimen>
+    <dimen name = "paddingtop_20dp_normal">20dip</dimen>
+    <dimen name = "paddingtop_30dp_normal">30dip</dimen>
+    <dimen name = "savebutton_width_normal">150dip</dimen>
+    <dimen name = "savebutton_height_normal">50dip</dimen>
+    <dimen name = "Itemtime_width_normal">60dip</dimen>
+    <dimen name = "ItemNote_width_normal">80dip</dimen>
+    <dimen name = "ItemAt_width_normal">50dip</dimen>
+    <dimen name = "ItemPlace_width_normal">80dip</dimen>
+    <dimen name = "thankyouNoteSize_normal">20sp</dimen>
+
+
+
+    <!-- Large Dimensions = "Medium Dimensions * 1.5" For Example: 210*1.5 = 315 -->
+    <dimen name = "dimen_task_large">159dip</dimen>
+    <dimen name = "radiobutton_width_large">200dip</dimen>
+    <dimen name = "padding_10dp_large">15dip</dimen>
+    <dimen name = "paddingtop_20dp_large">30dip</dimen>
+    <dimen name = "paddingtop_30dp_large">45dip</dimen>
+    <dimen name = "savebutton_width_large">175dip</dimen>
+    <dimen name = "savebutton_height_large">75dip</dimen>
+    <dimen name = "Itemtime_width_large">90dip</dimen>
+    <dimen name = "ItemNote_width_large">120dip</dimen>
+    <dimen name = "ItemAt_width_large">75dip</dimen>
+    <dimen name = "ItemPlace_width_large">120dip</dimen>
+    <dimen name = "thankyouNoteSize_large">30sp</dimen>
+
+
+
+    <!-- XLarge Dimensions = "Medium Dimensions * 2" For Example: 210*2.0 = 420 -->
+    <dimen name = "dimen_task_xlarge">212dip</dimen>
+    <dimen name = "radiobutton_width_xlarge">220dip</dimen>
+    <dimen name = "padding_10dp_xlarge">20dip</dimen>
+    <dimen name = "paddingtop_20dp_xlarge">40dip</dimen>
+    <dimen name = "paddingtop_30dp_xlarge">60dip</dimen>
+    <dimen name = "savebutton_width_xlarge">225dip</dimen>
+    <dimen name = "savebutton_height_xlarge">100dip</dimen>
+    <dimen name = "Itemtime_width_xlarge">120dip</dimen>
+    <dimen name = "ItemNote_width_xlarge">160dip</dimen>
+    <dimen name = "ItemAt_width_xlarge">100dip</dimen>
+    <dimen name = "ItemPlace_width_xlarge">160dip</dimen>
+    <dimen name = "thankyouNoteSize_xlarge">40sp</dimen>
+
+
+
+
+</resources>

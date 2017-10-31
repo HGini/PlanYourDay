@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PlanYourDay</string>
+    <string name="Note">Task:</string>
+    <string name="Country">Country:</string>
+    <string name="City">City:</string>
+    <string name="Locality">Locality:</string>
+    <string name="Time">Time:</string>
+    <string name="Instant">Instant </string>
+    <string name="InstantHint">(Eg: Reach office at 9:00 am)</string>
+    <string name="or">or</string>
+    <string name="Duration">Duration</string>
+    <string name="DurationHint">(Eg: Pick laundry between 10:00 am - 05:00 pm)</string>
+    <string name="countryeg">Eg: United States</string>
+    <string name="cityeg">Eg: Los Angeles</string>
+    <string name="localityeg">Eg: Hollywood</string>
+    <string name="WriteNote">Eg: Pick up laundry</string>
+    <string name="notasks">No tasks scheduled for today. Please enter a new task.</string>
+    <string name="action_settings">Settings</string>
+    <string name="Save">Plan Your Day!</string>
+    <string name="Date">Day:</string>
+    <string name="Today">Today</string>
+    <string name="OtherDay">Pick Day</string>
+    <string name="ApproximateTaskTime">Task Time: </string>
+    <string name="Hours">Hours </string>
+    <string name="home">New Task</string>
+    <string name="Minutes">Minutes </string>
+    <string name="Seconds">Seconds </string>
+    <string name="close">Save</string>
+    <string name="newtask">Next Task</string>
+    <string name="thankyou">Have a great day! :)</string>
+    <string name="title_activity_planned_day">Planned Day</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_thankyou">Thankyou</string>
+    <string name="defaultExtension">.txt</string>
+    <string name="resourceID_OK">OK</string>
+    <string name="resourceID_Cancel">Cancel</string>
+    <string name="resourceID_Title">Save as</string>
+    <string name="resourceID_EditHint">Type file name here (Eg: \'MyPlannedDay\')</string>
+    <string name="selectionMode">Mode.DirectorySelector</string>
+    <string name="resourceID_Directory">ic_launcher</string>
+    <string name="resourceID_File">ic_launcher</string>
+    <string name="tag_fragment_FileSave">Save File</string>
+    <string name="tag_fragment_FileSelect">Select File</string>
+    <string name="title_activity_no_tasks_for_today">NoTasksForToday</string>
+
+</resources>
